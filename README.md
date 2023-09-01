@@ -1,6 +1,5 @@
-#### Hi, I’m Gabriel Sena. A journalism graduate, currently studying Software Engineering.
+#### Hi, I’m Gabriel Sena. A journalism graduate, learning Backend Javascript development with Node.js
 #### I’m interested in data science, backend development, and VST audio software.
-#### I’m currently learning Backend Javascript development with Node.js
   ###
 <div align="center">
   <a href="https://github.com/Sena-Gabriel">
