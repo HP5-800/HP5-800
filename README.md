@@ -12,7 +12,7 @@
 <div align="center">
     <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" alt="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+    <img align="center" height="30" width="40" alt="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
 </div>
 
   ###
